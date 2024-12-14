@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm Ananth 👩‍💻
+### B.E (computer Science And Engineering)
 
-<!--
-**Ananth002/Ananth002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Im a contriver who likes to coding languages🐱‍👤
+- Passionate about making software applications 💻💻
+- I like learning new Technology ⚙🔧
+- Currently I'm Working on React JS 🎇
+- Occasinally i like to create ui design 📲
+- I'm like to Blender and Unreal Engine create a realistic Environment and fantasy model creation 🌟🔥
+- Real-time Software content for unreal Engine Architectural Visualization🌌
 
-Here are some ideas to get you started:
+## Code: 
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/><img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
