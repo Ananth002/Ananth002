@@ -12,7 +12,7 @@
 - 🌟 I'm like to Blender and Unreal Engine create a realistic Environment and fantasy model creation 
 - 🌌Real-time Software content for unreal Engine Architectural Visualization
   
-### social:
+### Social:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-j-aj/)
 ```
 HELLO WORLD!
