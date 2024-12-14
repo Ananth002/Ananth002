@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ananth 👩‍💻
 
-<img align="right" height="220" width="300" border-radius="25px" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+<img align="right" height="220" width="310" src="https://github.com/Ananth002/ICONS/blob/14ecce43908f11d8f5ddd5041c537829d3e65503/animate-1.gif"/>
 
 ### B.E (computer Science And Engineering)
 
