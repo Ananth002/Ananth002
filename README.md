@@ -9,7 +9,7 @@
 - ⚙ I like learning new Technology 🔧
 - 🎇 Currently I'm Working on React JS 
 - 📲 Occasinally i like to create ui design 
-- 🌟 I'm like to Blender and Unreal Engine create a realistic Environment and fantasy model creation 
+- 🌟 I'm like to use Blender and Unreal Engine to create a realistic Environment and fantasy model creation 
 - 🌌Real-time Software content for unreal Engine Architectural Visualization
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ananth-j-aj/)
