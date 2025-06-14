@@ -24,8 +24,6 @@ HELLO WORLD!
 ```
 ### 📊 GitHub Contribution Graph
 
-![Ananth's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ananth002&theme=github-compact)
+![Ananth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananth002&theme=github-compact)
 
-![Ananth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananth002&show_icons=true&theme=dracula)
-
-![Ananth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananth002&theme=dracula)
+![Ananth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ananth002&show_icons=true&theme=dracula)   ![Ananth's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananth002&theme=dracula)
