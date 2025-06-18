@@ -37,5 +37,5 @@ hello world!
 
 ![Ananth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananth002&theme=github-compact)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ananth002&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ananth002&theme=dark)
 
