@@ -25,7 +25,7 @@
 
 ## 🎨 3D Applications  
 <img width="50" height="50" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender"/> <img width="50" height="50" src="https://img.icons8.com/color/48/unreal-engine.png" alt="unreal"/>
-<img width="50" height="50" src="https://img.icons8.com/nolan/50/substance-painter.png" alt="substance-painter"/> <img width="50" height="50" src="https://icon-library.com/images/3ds-max-icon/3ds-max-icon-8.jpg"/>
+<img width="50" height="50" alt="Substance Painter" src="https://img.icons8.com/nolan/50/substance-painter.png" alt="substance-painter"/> <img width="50" height="50" src="https://icon-library.com/images/3ds-max-icon/3ds-max-icon-8.jpg"/>
 ---
 
 ```
