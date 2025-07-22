@@ -18,14 +18,14 @@
 ---
 
 ## 💻 Code  
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="50" height="50" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="50" height="50" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/> <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+<img width="50" height="50" Title="Python" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="50" height="50" Title="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" Title="C" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="50" height="50" Title="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/> <img width="50" height="50" Title="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
 
 ## 🌐 Web Design & Tools  
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5.png" alt="html"/> <img width="50" height="50" src="https://img.icons8.com/color/48/css3.png" alt="css"/> <img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react"/> <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma"/>
+<img width="50" height="50" Title="HTML" src="https://img.icons8.com/color/48/html-5.png" alt="html"/> <img width="50" height="50" Title="CSS" src="https://img.icons8.com/color/48/css3.png" alt="css"/> <img width="50" height="50" Title="React" src="https://img.icons8.com/color/48/react-native.png" alt="react"/>
 
 ## 🎨 3D Applications  
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender"/> <img width="50" height="50" src="https://img.icons8.com/color/48/unreal-engine.png" alt="unreal"/>
-<img width="50" height="50" alt="Substance Painter" src="https://img.icons8.com/nolan/50/substance-painter.png" alt="substance-painter"/> <img width="50" height="50" src="https://icon-library.com/images/3ds-max-icon/3ds-max-icon-8.jpg"/>
+<img width="50" height="50" Title="Blender" src="https://img.icons8.com/fluency/48/blender-3d.png" alt="blender"/> <img width="50" height="50" Title="Unreal Engine" src="https://img.icons8.com/color/48/unreal-engine.png" alt="unreal"/>
+<img width="50" height="50" Title="Substance Painter" alt="Substance Painter" src="https://img.icons8.com/nolan/50/substance-painter.png" alt="substance-painter"/> <img width="50" height="50" Title="3DS Max"  src="https://icon-library.com/images/3ds-max-icon/3ds-max-icon-8.jpg"/>
 ---
 
 ```
