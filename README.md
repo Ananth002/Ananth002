@@ -18,7 +18,7 @@
 ---
 
 ## 💻 Code  
-<img width="50" height="50" Title="Python" src="https://img.icons8.com/fluency/48/python.png" alt="python"/> <img width="50" height="50" Title="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" Title="C" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="50" height="50" Title="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/> <img width="50" height="50" Title="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
+<img width="50" height="50" Title="Python" src="https://img.icons8.com/fluency/48/python.png" alt="python"> <img width="50" height="50" Title="C++" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/> <img width="50" height="50" Title="C" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/> <img width="50" height="50" Title="Java" src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="java"/> <img width="50" height="50" Title="JavaScript" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript"/>
 
 ## 🌐 Web Design & Tools  
 <img width="50" height="50" Title="HTML" src="https://img.icons8.com/color/48/html-5.png" alt="html"/> <img width="50" height="50" Title="CSS" src="https://img.icons8.com/color/48/css3.png" alt="css"/> <img width="50" height="50" Title="React" src="https://img.icons8.com/color/48/react-native.png" alt="react"/>
